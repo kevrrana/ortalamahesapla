@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\bin\Debug\ortalamaornek.exe.config
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\bin\Debug\ortalamaornek.exe
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\bin\Debug\ortalamaornek.pdb
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.Form1.resources
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.Properties.Resources.resources
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.exe
+C:\Users\User\source\repos\ortalamaornek\ortalamaornek\obj\Debug\ortalamaornek.pdb
